@@ -1,0 +1,12 @@
+Version 2.20. Changelog:
+
+> Updates From The Hanan Mods Server🇱🇰
+>Based on the latest version of Google Play 25.6.2
+> Added a personal photo upload button
+> Setting profile picture download path now affects downloading stories
+> Ads have been permanently removed
+> Add author tag to the name of the downloaded file
+> Fixed likes and subscriptions issue
+> Fixed video rewind issue
+> Fixed connection issue for some users
+> Other small fixes and improvements
